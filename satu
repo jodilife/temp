@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1,=== PeerstvSlyNet IPTV (OFF) ===
+http://live.slynet.tv/promoslynetiptv1?.m3u8
+#EXTINF:-1,#[GSN GROUP] SlyNetKids HD [PremiumSlyNet]
+https://live.slynet.tv/gsnpromoiptv?.m3u8
+#EXTINF:-1,#[GSN GROUP] SlyNetTopCinema HD [PremiumSlyNet]
+https://live.slynet.tv/gsnpromoiptv?.m3u8
+#EXTINF:-1,#[GSN GROUP] SlyNetTopHorror HD [PremiumSlyNet]
+https://live.slynet.tv/gsnpromoiptv?.m3u8
+#EXTINF:-1,#[GSN GROUP] SlyNetZmuz HD [PremiumSlyNet]
+https://live.slynet.tv/gsnpromoiptv?.m3u8
+#EXTINF:-1,#[INTERNET TV] BEST FILMS HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,#[INTERNET TV] BOX CINEMA HD [PremiumSlyNet]
+https://live.slynet.tv/onlypremiumiptv?.m3u8
+#EXTINF:-1,#[INTERNET TV] BOX KIDS HD [PremiumSlyNet]
