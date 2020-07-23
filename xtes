@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTM3U 
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="English",DEFAULT=YES,AUTOSELECT=YES,URI="https://www.subtitlecat.com/subs/196/PPPD850-en.srt",LANGUAGE="en"
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=150000,SUBTITLES="subs"
-
+#EXTVLCOPT:sub-file=https://www.subtitlecat.com/subs/196/PPPD850-en.srt
+#EXTVLCOPT:subsdec-encoding=System Default
+#EXTVLCOPT:subsdec-align=0
+#EXTVLCOPT:freetype-rel-fontsize=16
+#EXTVLCOPT:sub-fps=0
+#EXTVLCOPT:sub-delay=0
 #EXTINF:0 tvg-logo="https://cdn.avgo.me/image/pppd/850/pppd-850-400.jpg", test sub pppd-850
 https://str22.vidoza.net/x4lf6hv3qfz7vjumxdxf4s2u62oxmg5b4mjudvhsjwup5zxyllvtbnfncykq/v.mp4
