@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://cdn.avgo.me/image/pppd/850/pppd-850-400.jpg" #EXTVLCOPT:sub-file=https://www.subtitlecat.com/subs/196/PPPD850-en.srt, test sub pppd-850
+#EXTVLCOPT:sub-file=https://www.subtitlecat.com/subs/196/PPPD850-en.srt
+#EXTINF:0 tvg-logo="https://cdn.avgo.me/image/pppd/850/pppd-850-400.jpg" , test sub pppd-850
 https://str22.vidoza.net/x4lf6hv3qfz7vjumxdxf4s2u62oxmg5b4mjudvhsjwup5zxyllvtbnfncykq/v.mp4
