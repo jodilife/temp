@@ -2,7 +2,7 @@
  
 #####== xtes ==#####
  
-#EXTINF:-1 group-title="hotstream" tvg-logo="http://hotstream.asia/2020/8/8/kbj2020080110-trailer.gif", http://hotstream.asia/2020/8/8/kbj2020080110-trailer.gif
+#EXTINF:-1 group-title="hotstream" tvg-logo="https://media.giphy.com/media/7ujhE1xLV7Uc0/giphy.gif", http://hotstream.asia/2020/8/8/kbj2020080110-trailer.gif
  http://hotstream.asia/2020/8/8/kbj2020080110.mp4
 #EXTINF:-1 group-title="hotstream" tvg-logo="http://hotstream.asia/2020/8/8/kbj2020081702-trailer.gif", http://hotstream.asia/2020/8/8/kbj2020081702-trailer.gif
  http://hotstream.asia/2020/8/8/kbj2020081702.mp4
